@@ -1,0 +1,48 @@
+.box{
+position:relative;
+top:200px;
+left:250px;
+width:50px;
+height:25px;
+background-color:green;
+}
+.box1{
+position:relative;
+top:390px;
+left:250px;
+width:50px;
+height:25px;
+background-color:green;
+}
+.pozadina{
+background-image:url("Slike/pozadina/pozadina.jpg");
+background-size:cover;
+background-position:center;
+}
+.meni{
+    position:sticky;
+	text-align:center;
+}
+.naslov{
+text-align:center;
+}
+.slika{
+    position:relative;
+    width:250px;
+	margin-left:42%;
+}
+.grad1{
+position:absolute;
+    bottom:10px;
+    right:10px;
+}
+.grad2{
+position:absolute;
+    bottom:10px;
+    left:10px;
+}
+.grad3{
+position:absolute;
+    bottom:10px;
+    left:10px;
+}
